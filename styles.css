@@ -1,0 +1,51 @@
+#top5
+{
+	float:left;
+}
+
+#img2
+{
+  float: none;
+  height: 40%;
+  width: 40%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img
+{
+  border-radius: 50%;
+}
+
+#sofascore{
+  float: none;
+  height: auto%;
+  width: auto%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center {
+margin: auto;
+width: 60%;
+border: 5px solid rgb(50, 151, 168);
+padding: 10px;
+display: flex;
+}
+
+#myDIV{
+  height: auto;
+  width: auto;
+}
+
+.center1{
+  margin: auto;
+  width: auto;
+  display: flex;
+}
+li {
+    margin: 0;
+    padding: 0.2em;
+}   display: inline;
